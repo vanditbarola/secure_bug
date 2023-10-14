@@ -26,7 +26,7 @@ To get started with this utility, follow these steps:
 
 **Requirements:**
 - Python (3.x)
-- Required Python packages (e.g., cryptography, tkinter, PIL)
+- Required Python packages (e.g., cryptography, tkinter, PIL, etc...)
 
 **Contribution:**
 Feel free to contribute to this repository by enhancing the utility, adding features, or improving its user interface. Your contributions are welcome!
@@ -34,5 +34,7 @@ Feel free to contribute to this repository by enhancing the utility, adding feat
 **License:**
 This utility is open-source and available under the [MIT License](LICENSE).
 
-**Contact:**
-For questions, issues, or contributions, please contact [Your Email Address].
+**Team Secure Bug**
+Vandit Barola 
+Prerna Rathore 
+Pratush Raman 
